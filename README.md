@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0nionman
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning i kinda wanna learn C
+- 👀 I’m interested in not much
+- 🌱 I kinda wanna learn C
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
+- 📫 Don't try reaching me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am really bad at coding
 
